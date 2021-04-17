@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my thesis on Asymmetric Roles in Intergenerational Games.
+
 &nbsp;&nbsp; Where we try to use asymmetric games to meet the different requirements of players of different generations.
 
 <!--
