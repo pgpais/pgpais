@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my thesis on Asymmetric Roles in Intergenerational Games.
-
-&nbsp; Where we try to use asymmetric games to meet the different requirements of players of different generations.
+- 🔭 I’m currently working on my thesis on Asymmetric Roles in Intergenerational Games. Where we try to use asymmetric games to meet the different requirements of players of different generations.
 
 <!--
 **pgpais/pgpais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
