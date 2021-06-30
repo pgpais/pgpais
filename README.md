@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my thesis on Asymmetric Roles in Intergenerational Games. Where we try to use asymmetric games to meet the different requirements of players of different generations.
 
-You can check the Child version of the game [here](https://github.com/pgpais/Ye-Olde-Shop-Adventurer) and the Parent version of the game [here](https://github.com/pgpais/Ye-Olde-Shop--Parent-). They're not finished in the slightest but there is some behaviour implemented already
+You can check the [Child version of the game here](https://github.com/pgpais/Ye-Olde-Shop-Adventurer) and the [Parent version of the game here](https://github.com/pgpais/Ye-Olde-Shop--Parent-). They're not finished in the slightest but there is some behaviour implemented already
 
 <!--
 **pgpais/pgpais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
