@@ -4,6 +4,6 @@ I also have an academic background in game research, with peer-reviewed publicat
 
 I’m currently seeking new opportunities in game development or applied research roles where I can combine engineering, design, and research-driven thinking.
 
-🔧 Unity | Godot | C# | Game Systems | Multiplayer  
+🔧 Godot | Unity | C# | Game Systems | Multiplayer  
 📄 Game Research (CHI, CSCW)  
 📬 Open to opportunities — pgpaisdev@gmail.com
